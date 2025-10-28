@@ -4,7 +4,7 @@ Frontend Developer specializing in **high-converting** web experiences that turn
 <br>Performance? Sub-2-second loads.
 <br>Conversions? Measurably higher or I refactor.
 
-Building websites that don't just look good—they work harder than your sales team.
+Building websites that don't just look good, they work harder than your sales team.
 
 
 ## 🌐 Socials:
