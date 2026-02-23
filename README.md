@@ -47,5 +47,14 @@ Full-Stack Developer building tools that solve real problems and drive measurabl
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xodo2fast4u&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=xodo2fast4u&icon=0&color=4)](https://visitcount.itsvg.in)
+
+---
+
+<h2>❤️ Support Me</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/xodobyte">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+</p>
