@@ -37,15 +37,12 @@ Full-Stack Developer building tools that solve real problems and drive measurabl
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xodo2fast4u&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xodo2fast4u&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xodo2fast4u&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xodo2fast4u&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats-opal-tau-45.vercel.app/api?username=xodo2fast4u&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xodo2fast4u&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats-opal-tau-45.vercel.app/api/top-langs/?username=xodo2fast4u&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xodo2fast4u&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=xodo2fast4u&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=xodo2fast4u&icon=0&color=4)](https://visitcount.itsvg.in)
 
