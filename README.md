@@ -1,6 +1,5 @@
 # About Me:
-Full-Stack Developer building tools that solve real problems and drive measurable impact. I create high-converting web experiences with React, Next.js, and TypeScript while delivering powerful backend solutions in Node.js and Python, from aggregating over 1,600 Pokémon fan games to streamline discovery to launching instant URL screenshot APIs and WhatsApp automation bots that save time and boost engagement. My work focuses on performance, utility, and results that move the needle because great code paired with clear value gets noticed and delivers.
-
+Frontend dev with a fullstack mindset. I have built WhatsApp bots, web scrapers, REST APIs and React platforms, if it can be built I am probably already thinking about it.
 
 # Tech Stack
 
