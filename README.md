@@ -39,7 +39,7 @@ Frontend dev with a fullstack mindset and unemployed.
 
 <h2>my stats</h2>
 
-![](https://github-readme-stats-opal-tau-45.vercel.app/api?username=xodo2fast4u&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-opal-tau-45.vercel.app/api?username=xodo2fast4u&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=xodo2fast4u&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats-opal-tau-45.vercel.app/api/top-langs/?username=xodo2fast4u&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
