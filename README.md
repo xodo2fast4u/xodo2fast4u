@@ -1,4 +1,4 @@
-Frontend dev with a fullstack mindset and unemployed.
+Hobbyist dev with a polymath mindset and unemployed.
 
 <details>
 <summary>my stack</summary>
